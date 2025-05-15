@@ -44,5 +44,3 @@ Classe la qualité de l'air en 4 niveaux :
 2. **Faible Pollution** (30% ≤ valeur < 60%)
 3. **Forte Pollution** (60% ≤ valeur < 80%)
 4. **DANGER !** (valeur ≥ 80%)
-
-Active automatiquement les alertes (LEDs + buzzer) en fonction du niveau détecté.
